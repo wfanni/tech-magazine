@@ -1,0 +1,11 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: radial-gradient(109.36% 123.05% at 20.28% 18.75%, #18004e 0%, #290262 32.42%, #4e058d 74.65%, #7209b7 100%);
+}
+/*# sourceMappingURL=App.css.map */

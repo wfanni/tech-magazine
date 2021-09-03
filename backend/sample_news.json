@@ -1,0 +1,891 @@
+{
+	"status": "ok",
+	"totalResults": 70,
+	"articles": [
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Aliens: Fireteam Elite Review - IGN",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y0dfWGtuRFNjZG_SAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-23T14:00:26Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Hoa Review - IGN",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9djlPUzBpaVlzWXfSAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-23T13:00:22Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Psychonauts 2 Review - IGN",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9b0FxTTJ0V1dSNGvSAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-23T13:00:17Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "ign",
+				"name": "IGN"
+			},
+			"author": "Jared Moore",
+			"title": "Twitch Streamers Organise Boycott in Protest at Hate Raids - IGN - IGN",
+			"description": "Twitch streamers are organizing a boycott of the platform in protest of hate raids that have been affecting marginalized streamers for some time now.",
+			"url": "https://www.ign.com/articles/twitch-streamers-organise-boycott-protest-hate-raids-adayofftwitch",
+			"urlToImage": "https://assets-prd.ignimgs.com/2021/05/23/twitch-1621747501669.png?width=1280",
+			"publishedAt": "2021-08-23T12:10:30Z",
+			"content": "Twitch streamers are organizing a boycott of the platform in protest at hate raids that have been affecting marginalized streamers across the site for some time now, and inaction from Twitch on preve… [+3303 chars]"
+		},
+		{
+			"source": {
+				"id": "engadget",
+				"name": "Engadget"
+			},
+			"author": "https://www.engadget.com/about/editors/kris-holt",
+			"title": "The OnePlus Buds Pro feature smart ANC and a white-noise mode - Engadget",
+			"description": "The $150 true wireless earbuds go on sale on September 1st..",
+			"url": "https://www.engadget.com/oneplus-buds-pro-anc-price-release-date-120008143.html",
+			"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/b6aa5d00-fa09-11eb-bc6f-aebca719e357",
+			"publishedAt": "2021-08-23T12:04:00Z",
+			"content": "It's not exactly a secret that OnePlus has been working on new earbuds. In July, it sought fans to test an upcoming model without disclosing too many details. Fast forward a few weeks, and the compan… [+1897 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Wccftech"
+			},
+			"author": "Hassan Mujtaba",
+			"title": "AMD Ryzen AM5 Desktop CPUs With Zen 4 Architecture Confirmed To Feature Integrated RDNA 2 Graphics - Wccftech",
+			"description": "AMD's next-generation Ryzen AM5 Desktop CPUs &amp; APUs based on the Zen 4 core architecture are confirmed to feature integrated RDNA 2 graphics. This information is confirmed within the leaked Gigabyte documents by Chips and Cheese (via Videocardz). AMD Ryze…",
+			"url": "https://wccftech.com/amd-ryzen-am5-desktop-cpus-with-zen-4-architecture-confirmed-to-feature-integrated-rdna-2-graphics/",
+			"urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2020/07/AMD-Ryzen-4000-Renoir-APU_2.jpg",
+			"publishedAt": "2021-08-23T12:01:04Z",
+			"content": "AMD's next-generation Ryzen AM5 Desktop CPUs &amp; APUs based on the Zen 4 core architecture are confirmed to feature integrated RDNA 2 graphics. This information is confirmed within the leaked Gigab… [+3710 chars]"
+		},
+		{
+			"source": {
+				"id": "the-verge",
+				"name": "The Verge"
+			},
+			"author": "Andrew Webster",
+			"title": "Supercell’s next game is all about co-operation - The Verge",
+			"description": "Clash of Clans and Brawl Stars developer Everdale has announced Everdale, its next game which is focused on co-operative town-building and is available in soft launch starting August 23rd.",
+			"url": "https://www.theverge.com/2021/8/23/22634564/supercell-everdale-soft-launch-trailer",
+			"urlToImage": "https://cdn.vox-cdn.com/thumbor/G9XcLt4tU6aDmMl4MrbD-8qTetI=/0x18:900x489/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22795813/Everdale_Splash_Alt.jpg",
+			"publishedAt": "2021-08-23T12:00:00Z",
+			"content": "Everdale looks like a big departure for the Clash of Clans developer"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Nintendo Life"
+			},
+			"author": "Nintendo Life",
+			"title": "The Wild At Heart Brings Its Charming Pikmin-Like Gameplay To Switch This Year - Nintendo Life",
+			"description": "Who needs Pikmin 4 anyway?",
+			"url": "https://www.nintendolife.com/news/2021/08/the_wild_at_heart_brings_its_charming_pikmin-like_gameplay_to_switch_this_year",
+			"urlToImage": "https://images.nintendolife.com/9694938bafd52/1280x720.jpg",
+			"publishedAt": "2021-08-23T12:00:00Z",
+			"content": "Humble Games and Moonlight Kids have announced that The Wild at Heart, an indie adventure game that launched on PC and Xbox One earlier this summer, will now be arriving on Switch later this year.\r\nT… [+1164 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "9to5Mac"
+			},
+			"author": null,
+			"title": "Apple already scans iCloud Mail for CSAM, but not iCloud Photos - 9to5Mac",
+			"description": "Apple has confirmed to me that it already scans iCloud Mail for CSAM, and has been doing so since 2019. It has not, however, been scanning ...",
+			"url": "https://9to5mac.com/2021/08/23/apple-scans-icloud-mail-for-csam/",
+			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Apple-scans-iCloud-Mail-for-CSAM-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2021-08-23T11:43:00Z",
+			"content": "Apple has confirmed to me that it already scans iCloud Mail for CSAM, and has been doing so since 2019. It has not, however, been scanning iCloud Photos or iCloud backups.\r\nThe clarification followed… [+3169 chars]"
+		},
+		{
+			"source": {
+				"id": "the-verge",
+				"name": "The Verge"
+			},
+			"author": "Thomas Ricker",
+			"title": "This tiny Simpsons TV lets you watch tiny Simpsons TV - The Verge",
+			"description": "This 3D printed Simpsons TV created by reddit user buba447 is fitted with a Raspberry Pi that plays 11 seasons of the long-running animated sitcom at random. Even the dials work.",
+			"url": "https://www.theverge.com/2021/8/23/22637549/diy-simpsons-tv-raspberry-pi-3d-printing",
+			"urlToImage": "https://cdn.vox-cdn.com/thumbor/B8eXWVTVikWG3VP4EE7HG4XynYw=/0x214:1890x1204/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22800052/simpsons_tv_hero.jpg",
+			"publishedAt": "2021-08-23T11:31:13Z",
+			"content": "Instructions coming soon\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nA DIY Simpsons TV that plays 11 seasons of episodes. \r\nImage buba447\r\nRed… [+915 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "TrueAchievements"
+			},
+			"author": "Heidi Nicholas",
+			"title": "Gamescom drops new Opening Night Live hype trailer - TrueAchievements",
+			"description": "In preparation for Wednesday's Opening Night Live event, which will feature over 30 games, host Geoff Keighley has shared a hype trailer featuring Far Cry 6, Jurassic World Evolution 2, and more.",
+			"url": "https://www.trueachievements.com/n46772/gamescom-opening-night-live-trailer",
+			"urlToImage": "https://www.trueachievements.com/customimages/120134.jpg",
+			"publishedAt": "2021-08-23T10:54:53Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "the-verge",
+				"name": "The Verge"
+			},
+			"author": "Tom Warren",
+			"title": "Sony’s new PS5 model is lighter and doesn’t need a screwdriver - The Verge",
+			"description": "Sony has started shipping a revised PS5 model. The hardware has appeared in Australia, with improvements to the way the base stand works.",
+			"url": "https://www.theverge.com/2021/8/23/22637524/sony-new-ps5-model-revision-lighter-screwdriver-stand-base-features",
+			"urlToImage": "https://cdn.vox-cdn.com/thumbor/n2eBods-9BT1eR2uWaWEc_iegiQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg",
+			"publishedAt": "2021-08-23T10:33:44Z",
+			"content": "The revised PS5 models have started appearing in Australia\r\nPhoto by Vjeran Pavic / The Verge\r\nSony has quietly launched a revised PS5 model in Australia. Press Start, an Australian-based gaming site… [+1186 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "MacRumors"
+			},
+			"author": "Sami Fathi",
+			"title": "Touch ID Not Returning With iPhone 13, Despite Apple Testing Under-Screen Sensor - MacRumors",
+			"description": "Despite having tested and worked on the technology, Apple has decided not to include an under-screen Touch ID sensor with the upcoming iPhone 13,...",
+			"url": "https://www.macrumors.com/2021/08/23/iphone-13-no-touch-id-under-display/",
+			"urlToImage": "https://images.macrumors.com/t/LJvga1WZVG-XSvYZdXWL-FQAIT0=/1920x/https://images.macrumors.com/article-new/2020/04/iPhone-12-TouchID-Feature-Img-1.jpg",
+			"publishedAt": "2021-08-23T10:14:39Z",
+			"content": "Despite having tested and worked on the technology, Apple has decided not to include an under-screen Touch ID sensor with the upcoming iPhone 13, continuing to leave customers with Face ID as the onl… [+2273 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Nintendo Life"
+			},
+			"author": "Nintendo Life",
+			"title": "Gallery: Feast Your Eyes On 20 New Pokémon Brilliant Diamond And Shining Pearl Screenshots - Nintendo Life",
+			"description": "Customisation, battles, contests and more",
+			"url": "https://www.nintendolife.com/news/2021/08/gallery_feast_your_eyes_on_20_new_pokemon_brilliant_diamond_and_shining_pearl_screenshots",
+			"urlToImage": "https://images.nintendolife.com/ed89bd02a5760/1280x720.jpg",
+			"publishedAt": "2021-08-23T10:00:00Z",
+			"content": "Image: The Pokémon Company\r\nLast week's Pokémon Presents gave us a new look at Pokémon Brilliant Diamond and Shining Pearl, the upcoming remakes of fan-favourite Generation 4 titles, Pokémon Diamond … [+1187 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "MacRumors"
+			},
+			"author": "Sami Fathi",
+			"title": "Microsoft Increasing Price of Commercial 'Microsoft 365' Plans Next Year - MacRumors",
+			"description": "Effective next year, pricing for all commercial plans of Microsoft 365 will be increased as a way to compensate for the \"increased value\"...",
+			"url": "https://www.macrumors.com/2021/08/23/microsoft-365-commercial-plans-price-increase/",
+			"urlToImage": "https://images.macrumors.com/t/3r9Fmk8Fhnbn6JKVdNvQ8HLsYDA=/1600x/https://images.macrumors.com/article-new/2021/08/microsoft365.jpg",
+			"publishedAt": "2021-08-23T09:11:52Z",
+			"content": "Effective next year, pricing for all commercial plans of Microsoft 365 will be increased as a way to compensate for the \"increased value\" Microsoft's suite of tools has provided to customers over the… [+1531 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "GamesRadar+"
+			},
+			"author": "Ben Tyrer",
+			"title": "Call of Duty: Vanguard PlayStation exclusive alpha announced - Gamesradar",
+			"description": "The limited time alpha will give PlayStation players a chance to experience new multiplayer mode Champions Hill",
+			"url": "https://www.gamesradar.com/call-of-duty-vanguard-playstation-exclusive-alpha-announced/",
+			"urlToImage": "https://cdn.mos.cms.futurecdn.net/Tc2VRuuPGLDNNiGiBxQan7-1200-80.jpeg",
+			"publishedAt": "2021-08-23T08:52:38Z",
+			"content": "A Call of Duty: Vanguard PlayStation Alpha has been announced for 27 - 29 August. \r\nThe alpha was announced yesterday (August 22) via a brief trailer that teased a brand new multiplayer mode Champion… [+1305 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "HYPEBEAST"
+			},
+			"author": "Jeff Yeung",
+			"title": "'Simpons: Hit & Run' Unreal Engine 5 Fan Remake - HYPEBEAST",
+			"description": "Taking him just a week to build.",
+			"url": "https://hypebeast.com/2021/8/simpsons-hit-and-run-unreal-engine-5-fan-remake-demo",
+			"urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fsimpsons-hit-and-run-unreal-engine-5-fan-remake-demo-tw.jpg?w=960&cbr=1&q=90&fit=max",
+			"publishedAt": "2021-08-23T08:42:15Z",
+			"content": "A The Simpsons: Hit &amp; Run fan has remade the game over the course of a week using Unreal Engine 5.\r\nOriginally released back in 2003 for the PlayStation 2, The Simpsons: Hit &amp; Run was a GTA c… [+997 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "SamMobile"
+			},
+			"author": "SamMobile",
+			"title": "Galaxy Watch 4 vs Galaxy Watch Active: Samsung shakes things up - SamMobile",
+			"description": "The Galaxy Watch Active may have been released six months after the original Galaxy Watch but it couldn't be considered ...",
+			"url": "https://www.sammobile.com/news/galaxy-watch-4-vs-galaxy-watch-active/",
+			"urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/08/Galaxy-Watch-4-9-1-720x405.jpg",
+			"publishedAt": "2021-08-23T08:39:00Z",
+			"content": "The Galaxy Watch Active may have been released six months after the original Galaxy Watch but it couldn’t be considered its successor. This was a more fitness-focused watch with an identity of its ow… [+2196 chars]"
+		},
+		{
+			"source": {
+				"id": "the-verge",
+				"name": "The Verge"
+			},
+			"author": "Sam Byford",
+			"title": "Higher-end Mac Mini reportedly landing ‘in the next several months’ - The Verge",
+			"description": "Apple is planning a new version of the Mac Mini, according to Bloomberg’s Mark Gurman. It’s said to use a more powerful M1X processor and feature an updated design with more ports than the current M1 model.",
+			"url": "https://www.theverge.com/2021/8/23/22637477/new-mac-mini-design-ports-m1x-release-date-gurman",
+			"urlToImage": "https://cdn.vox-cdn.com/thumbor/qF4wU-quN6vxOzUaqqLjTwZvfoc=/0x131:2040x1199/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22045881/cwelch_201114_4292_0006.0.jpg",
+			"publishedAt": "2021-08-23T08:25:59Z",
+			"content": "More ports and an updated design\r\nThe port configuration on the current M1 Mac Mini.\r\nPhoto by Chris Welch / The Verge\r\nApple is planning a new model of the Mac Mini that will replace the pro-focused… [+1272 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "UploadVR"
+			},
+			"author": "Jamie Feltham",
+			"title": "Oculus Quest v32 Will Improve Media Sharing And Oculus Move - UploadVR",
+			"description": "The next big update to the Oculus Quest platform, Oculus Quest v32, will feature big improvements to media sharing and Oculus Move.",
+			"url": "https://uploadvr.com/oculus-quest-v32-improvements/",
+			"urlToImage": "https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2021/02/Oculus-Quest-2-apps-1024x473.jpg",
+			"publishedAt": "2021-08-23T08:25:48Z",
+			"content": "The next big update to the Oculus Quest platform, Oculus Quest v32, will feature big improvements to media sharing and Oculus Move.\r\nFacebook CEO Mark Zuckerberg offered first details of the Quest v3… [+1255 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Leroy Ah Ben, CNN Business",
+			"title": "Irish tech firm helps kids' voices be heard - CNN",
+			"description": "Dublin-based startup SoapBox Labs has built a voice platform using speech recognition technology made specifically for children.",
+			"url": "https://www.cnn.com/2021/08/23/tech/ireland-soapbox-labs-voice-technology-children-spc/index.html",
+			"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210819122920-soapbox-labs-kids-super-tease.jpg",
+			"publishedAt": "2021-08-23T08:17:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Astria Ascending: The First Preview - IGN",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RmRRYTBtSm10VW_SAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-23T08:00:05Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "autoevolution"
+			},
+			"author": "Bogdan Popa",
+			"title": "Google Maps Might Copy Another Big Waze Feature - autoevolution",
+			"description": "As everybody knows already, Google owns two different navigation apps, namely Google Maps and Waze, and while this doesn’t make much sense for some people, the company keeps both on them on the market and continues to improve them regularly.",
+			"url": "https://www.autoevolution.com/news/google-maps-might-copy-another-big-waze-feature-167848.html",
+			"urlToImage": "https://s1.cdn.autoevolution.com/images/news/google-maps-might-copy-another-big-waze-feature-167848_1.jpg",
+			"publishedAt": "2021-08-23T05:36:00Z",
+			"content": "But a new Google Maps feature that could make its way to the app rather sooner than later may actually be borrowed from Waze, with a recent report indicating the Mountain View-based search giant want… [+1406 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CleanTechnica"
+			},
+			"author": "https://www.facebook.com/zachary.shahan",
+			"title": "Exclusive: Ford Mustang Mach-E Production Capacity Could Be 175,000 Vehicles A Year! (Maybe) - CleanTechnica",
+			"description": "LG Energy Solution is now producing ~5000 Ford Mustang Mach-E battery modules a day. That's enough for 500 battery packs a day (there are 10 modules in a pack). So? What's the news here? Well,",
+			"url": "https://cleantechnica.com/2021/08/23/exclusive-ford-mustang-mach-e-production-capacity-could-be-175000-a-year-maybe/",
+			"urlToImage": "https://cleantechnica.com/files/2021/05/Mustang_Mach-E_nominee-2.jpg",
+			"publishedAt": "2021-08-23T05:25:19Z",
+			"content": "LG Energy Solution is now producing ~5000 Ford Mustang Mach-E battery modules a day. That’s enough for 500 battery packs a day (there are 10 modules in a pack).\r\nSo? What’s the news here?\r\nWell, I’ve… [+4485 chars]"
+		},
+		{
+			"source": {
+				"id": "the-wall-street-journal",
+				"name": "The Wall Street Journal"
+			},
+			"author": "Rachel Feintzeig",
+			"title": "You’ve Got Another Job Offer. Here’s What to Tell Your Boss. - The Wall Street Journal",
+			"description": "If you’re open to staying at your current workplace, think hard about your role there and what you want from it that you’re not getting",
+			"url": "https://www.wsj.com/articles/job-offer-rival-counter-boss-11629388819",
+			"urlToImage": "https://images.wsj.net/im-373775/social",
+			"publishedAt": "2021-08-23T04:01:00Z",
+			"content": "People are on the move. Youve scored a temptingbut not perfectjob offer. Do you bring it to your boss?\r\nIt can be a powerful negotiating position, one that could end with what you really want: a prom… [+728 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "HYPEBEAST"
+			},
+			"author": "Joyce Li",
+			"title": "Top Talent From Jeff Bezos' Blue Origin Depart Company as Fight With NASA Escalates - HYPEBEAST",
+			"description": "Dozens of key leaders reportedly left after Jeff Bezos' spaceflight in July.",
+			"url": "https://hypebeast.com/2021/8/jeff-bezos-blue-origin-losing-top-talent-over-nasa-fight-news",
+			"urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fjeff-bezos-blue-origin-losing-top-talent-over-nasa-fight-news-tw.jpg?w=960&cbr=1&q=90&fit=max",
+			"publishedAt": "2021-08-23T03:46:59Z",
+			"content": "As the race to space continues, it was revealed that Jeff Bezos‘ Blue Origin has seen more than a dozen of its key leaders and engineers leave the company almost immediately after Bezos launched hims… [+1076 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Gematsu"
+			},
+			"author": "Sal Romano",
+			"title": "Crusader Kings III rated for PS5, Xbox Series, and Xbox One in Taiwan - Gematsu",
+			"description": "The Taiwan Digital Game Rating Committee has rated strategy game Crusader Kings III for PlayStation 5, Xbox Series, and Xbox One. Crusader Kings III first launched for PC via Steam…",
+			"url": "https://www.gematsu.com/2021/08/crusader-kings-iii-rated-for-ps5-xbox-series-and-xbox-one-in-taiwan",
+			"urlToImage": "https://www.gematsu.com/wp-content/uploads/2021/08/Crusader-Kings-3-Rating_08-23-21.jpg",
+			"publishedAt": "2021-08-23T03:38:35Z",
+			"content": "The Taiwan Digital Game Rating Committee has rated strategy game Crusader Kings III for PlayStation 5, Xbox Series, and Xbox One. \r\nCrusader Kings IIIfirst launched for PC via Steam, the Microsoft St… [+2443 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Kotaku"
+			},
+			"author": "Alex Walker",
+			"title": "RTX 3090 Owner Finds Old Glove Inside $1500 GPU - Kotaku",
+			"description": "That is not on the list of included extras, Nvidia",
+			"url": "https://kotaku.com/rtx-3090-owner-finds-old-glove-inside-1500-gpu-1847536432",
+			"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/26661f4017c932867af8fe699f81f3b3.jpg",
+			"publishedAt": "2021-08-23T03:05:00Z",
+			"content": "Imagine this. Youve just paid a ton for a new RTX 3090 Founders Edition GPU. You plug the card in, boot everything up and wait, why is my super-expensive GPU running at 230 degrees?\r\nReddit user anto… [+2555 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Gematsu"
+			},
+			"author": "Sal Romano",
+			"title": "This Week's Japanese Game Releases: Tsukihime: A Piece of Blue Glass Moon, No More Heroes III, more - Gematsu",
+			"description": "Tsukihime: A Piece of Blue Glass Moon for PlayStation 4 and Switch, and No More Heroes III for Switch are the highlights of this week's Japanese video game releases. Other notable new titles due out…",
+			"url": "https://www.gematsu.com/2021/08/this-weeks-japanese-game-releases-tsukihime-a-piece-of-blue-glass-moon-no-more-heroes-iii-more",
+			"urlToImage": "https://www.gematsu.com/wp-content/uploads/2021/08/Weekly-Japanese-Game-Releases_08-22-21.jpg",
+			"publishedAt": "2021-08-23T02:33:55Z",
+			"content": "Tsukihime: A Piece of Blue Glass Moon for PlayStation 4 and Switch, and No More Heroes III for Switch are the highlights of this weeks Japanese video game releases. \r\nOther notable new titles due out… [+3072 chars]"
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles - Demons Teaser Trailer - Gematsu",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NUw2OTZLYzZGQmfSAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-23T01:27:42Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "WindowsLatest"
+			},
+			"author": null,
+			"title": "Windows 11 bug breaks Windows Security app, but there’s a fix - WindowsLatest",
+			"description": "A bug that appears to be quite widespread is causing Windows Security to show error message “You’ll need a new app to this windowsdefender link” in the preview builds of Windows 11. Windows 11’s early preview is currently available to testers in the Windows I…",
+			"url": "https://www.windowslatest.com/2021/08/23/windows-11-bug-breaks-windows-security-app-but-theres-a-fix/",
+			"urlToImage": "https://www.windowslatest.com/wp-content/uploads/2021/08/Windows-11-security-app-crash.jpg",
+			"publishedAt": "2021-08-22T23:05:10Z",
+			"content": "A bug that appears to be quite widespread is causing Windows Security to show error message “You’ll need a new app to this windowsdefender link” in the preview builds of Windows 11.\r\nWindows 11’s ear… [+2669 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "nj.com"
+			},
+			"author": "Nicolette Accardi | NJ Advance Media for NJ.com",
+			"title": "These 8 companies are offering special discounts for teachers and students right now - NJ.com",
+			"description": "Top brands are offering discounts across the board for teachers and students, just in time for the new school year to begin",
+			"url": "https://www.nj.com/shopping-deals/2021/08/these-8-companies-are-offering-special-discounts-for-teachers-and-students-right-now.html",
+			"urlToImage": "https://www.nj.com/resizer/ty-cd25nq_nZExB6WwHHjZkXldY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E27K6BWJLFFO5O4BFYQQF5MNCA.png",
+			"publishedAt": "2021-08-22T23:05:00Z",
+			"content": "Many popular companies are offering discounts across the board for teachers and students, just in time for the new school year to begin.\r\nYou can score discounts on everything from tech, clothing, sh… [+2953 chars]"
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Google Pixel 5a Review - MobileTechReview",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXpraUlTOTg1UWfSAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-22T22:22:44Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNET"
+			},
+			"author": "Andrew Hoyle",
+			"title": "5 exciting new phones coming soon: iPhone 13, Galaxy S22 Ultra, Pixel 6 and more - CNET",
+			"description": "We may be impatient, but we can't wait to get our hands on these upcoming smartphones from Apple, Samsung, Google and Microsoft.",
+			"url": "https://www.cnet.com/tech/mobile/most-exciting-anticipated-phones-2021-iphone-13-galaxy-s22-ultra-pixel-6-and-more/",
+			"urlToImage": "https://www.cnet.com/a/img/GMAXm_j5sSaGhJIYTbWF3XP1Oyc=/1200x630/2021/08/04/b73921a5-25b6-4b22-a5aa-b7dbcd30bba6/iphone-ios-15-2021-cnet-09.jpg",
+			"publishedAt": "2021-08-22T22:00:11Z",
+			"content": "Technizo Concept in collaboration with LetsGoDigital\r\nPhone fans, start your engines. We're anticipating some exciting new reveals from Apple, Samsung, Google and more. Are we pumped for the iPhone 1… [+7373 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Drive"
+			},
+			"author": "Kristin V. Shaw",
+			"title": "Porsche 356 Restomod Is a Tartan-Clad Contender in Restoration Challenge - The Drive",
+			"description": "This is the first year Porsche is hosting its Restoration Challenge in the U.S., with 40 models entered.",
+			"url": "https://www.thedrive.com/news/42101/porsche-356-restomod-is-a-tartan-clad-contender-in-restoration-challenge",
+			"urlToImage": "https://www.thedrive.com/content/2021/08/Porsche-restoration-HERO.jpg?quality=85",
+			"publishedAt": "2021-08-22T21:34:00Z",
+			"content": "For the first time, Porsche is hosting its Restoration Challenge in the U.S. The Stuttgart-based brand says the U.S. is home to more classic Porsches than any other market, so it makes sense. Typical… [+2671 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "My Nintendo News"
+			},
+			"author": "ssf1991",
+			"title": "Rumor: 2K Sports and the WWE’s relationship has become “seriously strained” - My Nintendo News",
+			"description": "WWE 2K Battlegrounds released on the Nintendo Switch in 2020, so it is no surprise that the upcoming release of WWE 2K22 could also come to Nintendo's console. But, unfortunately, WWE 2K22 has been…",
+			"url": "https://mynintendonews.com/2021/08/22/rumor-2k-sports-and-the-wwes-relationship-has-become-seriously-strained/",
+			"urlToImage": "https://i2.wp.com/mynintendonews.com/wp-content/uploads/2017/09/wwe_logo.jpg?fit=1366%2C768&ssl=1",
+			"publishedAt": "2021-08-22T20:31:16Z",
+			"content": "WWE 2K Battlegrounds released on the Nintendo Switch in 2020, so it is no surprise that the upcoming release of WWE 2K22 could also come to Nintendo’s console. But, unfortunately, WWE 2K22 has been d… [+1732 chars]"
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "Destiny 2 Halo Crossover Mission Teased by Leaker - GameRant",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vZ2FtZXJhbnQuY29tL2Rlc3RpbnktMi1oYWxvLWNyb3Nzb3Zlci1taXNzaW9uLWxlYWtlZC_SAUFodHRwczovL2dhbWVyYW50LmNvbS9kZXN0aW55LTItaGFsby1jcm9zc292ZXItbWlzc2lvbi1sZWFrZWQvYW1wLw?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-22T20:29:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Twinfinite"
+			},
+			"author": "Giuseppe Nelva",
+			"title": "Rainbow Six Extraction Gets New Trailer Introducing the Gameplay - Twinfinite",
+			"description": "Today Ubisoft released a new trailer of its upcoming co-op squad-based shooter Tom Clancy’s Rainbow Six Extraction.",
+			"url": "https://twinfinite.net/2021/08/rainbow-six-extraction-gameplay-trailer/",
+			"urlToImage": "https://twinfinite.net/wp-content/uploads/2021/06/Rainbow-Six-Extraction-1.jpg",
+			"publishedAt": "2021-08-22T20:27:03Z",
+			"content": "Today Ubisoft released a new trailer of its upcoming co-op squad-based shooter Tom Clancys Rainbow Six Extraction.This time around we get an in-depth overview of the gameplay, basically explaining wh… [+3368 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Hot Hardware"
+			},
+			"author": "Paul Lilly",
+			"title": "From H610E To X699, Intel's Entire 600-Series Motherboard Chipset Family For Alder Lake Leaks - Hot Hardware",
+			"description": "A new Intel driver references nearly a dozen different 600-series chipsets for its upcoming Alder Lake CPUs.",
+			"url": "https://hothardware.com/news/intels-600-series-motherboard-chipset-family-leaks",
+			"urlToImage": "https://images.hothardware.com/contentimages/newsitem/56050/content/Intel_Alder_Lake.jpg",
+			"publishedAt": "2021-08-22T20:19:00Z",
+			"content": "Skip to contentLike everyone else, we are waiting to find out if Alder Lake can live up to the hype, and be a competitive product for all of next year—will it be all that and a bag of chips, in other… [+2446 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CarBuzz"
+			},
+			"author": "Jay Traugott",
+			"title": "Revealed! 2022 Chevrolet Corvette Stingray Production Start Date - CarBuzz",
+			"description": "The C8 Chevrolet Corvette Stingray continues into the 2022 model year with relatively few changes. The main...",
+			"url": "https://carbuzz.com/news/revealed-2022-chevrolet-corvette-stingray-production-start-date",
+			"urlToImage": "http://cdn.carbuzz.com/gallery-images/1600/886000/900/886944.jpg",
+			"publishedAt": "2021-08-22T19:47:32Z",
+			"content": "Like all Corvettes for years, production will continue to take place at the Bowling Green, Kentucky assembly plant. Also, the build your own Corvette and pricing tool is set to go live online on Sept… [+516 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Points Guy"
+			},
+			"author": "Joseph Hostetler",
+			"title": "Do you really have to check out of a hotel? - The Points Guy",
+			"description": "I can probably count on one hand the times I’ve checked out of a hotel. I usually leave as discreetly and quickly as possible. I’m doubly unlikely to check",
+			"url": "http://thepointsguy.com/news/hotel-check-out-rules/",
+			"urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2021/08/20210818_154223-scaled.jpg",
+			"publishedAt": "2021-08-22T19:30:16Z",
+			"content": "I can probably count on one hand the times I’ve checked out of a hotel. I usually leave as discreetly and quickly as possible. I’m doubly unlikely to check out if there’s a queue at the front desk. A… [+4664 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "GamesRadar+"
+			},
+			"author": "Vikki Blake",
+			"title": "Twelve Minutes star James McAvoy was so hooked on Oblivion he set the disc on fire - GamesRadar+",
+			"description": "\"Right, we’re done, we’re over, never again!\"",
+			"url": "https://www.gamesradar.com/twelve-minutes-star-james-mcavoy-was-so-hooked-on-oblivion-he-set-the-disc-on-fire/",
+			"urlToImage": "https://cdn.mos.cms.futurecdn.net/UNeNVUZ9XE4S8tj7Vqp3sf-1200-80.jpg",
+			"publishedAt": "2021-08-22T19:20:24Z",
+			"content": "Twelve Minutes\r\n star James McAvoy loved The Elder Scrolls 4: Oblivion. In fact, he loved it so much he had to set his game disc on fire after pulling an all-nighter on a work night.\r\nTalking to Forb… [+2737 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "9to5Mac"
+			},
+			"author": null,
+			"title": "This week’s top stories: Apple’s fall roadmap, the latest iOS 15 beta changes, and more - 9to5Mac",
+			"description": "In this week’s top stories: Apple’s roadmap for this fall’s new hardware announcements, iOS 15 beta 6 brings more changes to Safari, Apple delays certain iOS 15 features, and more. Read on for all of this week’s top stories and more. Apple’s roadmap Bloomberg…",
+			"url": "https://9to5mac.com/2021/08/22/this-weeks-top-stories-apples-fall-roadmap-the-latest-ios-15-beta-changes-and-more/",
+			"urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/03/top-stories-header-steeber.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2021-08-22T18:43:00Z",
+			"content": "In this weeks top stories: Apple’s roadmap for this fall’s new hardware announcements, iOS 15 beta 6 brings more changes to Safari, Apple delays certain iOS 15 features, and more. Read on for all of … [+3890 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Melanie Schaffer",
+			"title": "How An Institution Is Preparing For The Big Alibaba Rebound Play - Yahoo Finance",
+			"description": "Alibaba Group Holding Ltd -ADR (NYSE: BABA) has been slaughtered since October 2020 when it reached an all-time high of $319.32. The sharp decline has been...",
+			"url": "https://finance.yahoo.com/news/institution-preparing-big-alibaba-rebound-182605625.html",
+			"urlToImage": "https://s.yimg.com/uu/api/res/1.2/uMiNGpHaY4RT3uY2KGYT7g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/f96b78607534e56f991ac09ea31488d5",
+			"publishedAt": "2021-08-22T18:26:05Z",
+			"content": "Alibaba Group Holding Ltd -ADR (NYSE: BABA) has been slaughtered since October 2020 when it reached an all-time high of $319.32. The sharp decline has been partly due to poor U.S./China relations as … [+2295 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "TechSpot"
+			},
+			"author": "Garrett Gosnell",
+			"title": "Claim these free PC games before August is over, including Battlefield V - TechSpot",
+			"description": "Steam steals",
+			"url": "https://www.techspot.com/news/90886-claim-free-pc-games-before-august-over-including.html",
+			"urlToImage": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-22-image-3.jpg",
+			"publishedAt": "2021-08-22T18:20:00Z",
+			"content": "Download this: Many platforms have different free offerings that rotate from time to time. Others have free finds buried in their store pages with little to no promotion. We've done the search for yo… [+8373 chars]"
+		},
+		{
+			"source": {
+				"id": "bloomberg",
+				"name": "Bloomberg"
+			},
+			"author": null,
+			"title": "Apple's iOS 15 Reversal Shows It's Now Actually Listening to Users - Bloomberg",
+			"description": null,
+			"url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2023a72e-037a-11ec-ae8b-565a59776150&url=L25ld3MvbmV3c2xldHRlcnMvMjAyMS0wOC0yMi9hcHBsZS1zLWlvcy0xNS1yZXZlcnNhbC1zaG93cy1pdC1zLW5vdy1hY3R1YWxseS1saXN0ZW5pbmctdG8tdXNlcnM=",
+			"urlToImage": null,
+			"publishedAt": "2021-08-22T18:00:27Z",
+			"content": "To continue, please click the box below to let us know you're not a robot."
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNET"
+			},
+			"author": "Alison DeNisco Rayome",
+			"title": "Are you ready for the iPhone 13? It could be coming next month - CNET",
+			"description": "We don't know for sure yet, but we could see the iPhone 13 next month.",
+			"url": "https://www.cnet.com/tech/mobile/all-the-clues-to-the-iphone-13-release-date-apples-new-flagship-could-be-coming-soon/",
+			"urlToImage": "https://www.cnet.com/a/img/DsNpSZteQ8-QpnY1AOB7XfW-BsA=/1200x630/2021/04/10/7ba01b6e-53bc-4e55-afbc-ac5858eb8479/iphone-13-rendering-3.png",
+			"publishedAt": "2021-08-22T17:00:03Z",
+			"content": "The iPhone 13, shown in this render, could be arriving soon.\r\nEverythingApplePro\r\nApple's latest iPhone, expected to be called the iPhone 13, could make its debut sooner than you think. We haven't he… [+3610 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "ComicBook.com"
+			},
+			"author": "Logan Moore",
+			"title": "Halo Infinite Developers Considered Delaying the Game Again - ComicBook.com",
+			"description": "Developers at 343 Industries, which is the studio behind the upcoming release of Halo Infinite, have revealed that another delay for the game was considered at one point. While the game's current launch window of 'Holiday 2021' now seems officially locked in,…",
+			"url": "https://comicbook.com/gaming/news/halo-infinite-release-date-delay-considered/",
+			"urlToImage": "https://media.comicbook.com/2021/08/halo-infinite-1279637-1280x0.jpeg",
+			"publishedAt": "2021-08-22T15:59:00Z",
+			"content": "Developers at 343 Industries, which is the studio behind the upcoming release of Halo Infinite, have revealed that another delay for the game was considered at one point. While the game's current lau… [+2193 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Android Police"
+			},
+			"author": null,
+			"title": "Weekend poll: How will you replace Android Auto on phone screens? - Android Police",
+			"description": "This week, we learned Android Auto's long-delayed death on phone screens was back on the calendar. It's been a long time coming, but that hasn't stopped",
+			"url": "https://www.androidpolice.com/2021/08/22/weekend-poll-draft-how-will-you-replace-android-auto-on-phone-screens/",
+			"urlToImage": "https://www.androidpolice.com/wp-content/uploads/2019/09/android-auto-phone.jpg",
+			"publishedAt": "2021-08-22T15:43:00Z",
+			"content": "This week, we learned Android Auto's long-delayed death on phone screens was back on the calendar. It's been a long time coming, but that hasn't stopped fans of Google's driver-friendly app from feel… [+1968 chars]"
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "10 Little Known But INSANE Looking Games To Look Forward To - GamingBolt",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SVRKaFE3aEFBRWPSAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-08-22T15:30:02Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNET"
+			},
+			"author": "Jason Cipriani",
+			"title": "Stop carrying around your vaccination card. Here's how to keep a digital copy on your phone - CNET",
+			"description": "Restaurants, gyms, and event venues are increasingly requiring proof of vaccination for entry. So keep your COVID card handy.",
+			"url": "https://www.cnet.com/tech/mobile/stop-carrying-around-your-vaccination-card-heres-how-to-keep-digital-copy-on-your-phone/",
+			"urlToImage": "https://www.cnet.com/a/img/0bxRNKSEHtQ_yXeaCSIPO-sfw_s=/1200x630/2020/12/09/bdedb912-b17e-4819-8ab5-3aa7a14a7438/vaccine-card.jpg",
+			"publishedAt": "2021-08-22T14:38:58Z",
+			"content": "Your vaccination card is important, but it's also easy to lose or damage.  \r\nUS Department of Defense\r\nFor the most up-to-date news and information about the coronavirus pandemic, visit the WHO and C… [+6596 chars]"
+		},
+		{
+			"source": {
+				"id": "cbs-news",
+				"name": "CBS News"
+			},
+			"author": null,
+			"title": "The father of the cellphone - CBS News",
+			"description": "In the 1970s engineer Marty Cooper, an executive at Motorola, fought against archrival AT&T by leading a team that designed the cordless device that made possible the explosion in cellphones. Now 92, he has never lost his unbridled optimism for the future.",
+			"url": "https://www.cbsnews.com/news/marty-cooper-the-father-of-the-cellphone/",
+			"urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/22/202f5e70-6fb3-4944-b237-f5ca50c69494/thumbnail/1200x630/567fcb291f34cdb7141034b7278b5110/marty-cooper-photo-sandy-huffaker-corbis-via-getty-images-1280.jpg",
+			"publishedAt": "2021-08-22T13:39:34Z",
+			"content": "There wouldn't be Uber or Lyft or Google Maps or FaceTime or Instagram or Tinder or Snapchat or TikTok or iPhones or Android phones if someone hadn't invented the cellphone. Fortunately, somebody did… [+5630 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Video Games Chronicle"
+			},
+			"author": "Andy Robinson",
+			"title": "Cyberpunk datamine suggests multiplayer and expansions are still coming - Video Games Chronicle",
+			"description": "CD Projekt previously said it had cancelled plans for a standalone online game…",
+			"url": "https://www.videogameschronicle.com/news/cyberpunk-datamine-suggests-multiplayer-and-expansions-are-still-coming/",
+			"urlToImage": "https://www.videogameschronicle.com/files/2020/12/Cyberpunk-CD-Projekt.jpg",
+			"publishedAt": "2021-08-22T13:36:56Z",
+			"content": "CD Projekt Red is still planning to release Cyberpunk 2077 multiplayer features and at least two game expansions, according to a datamine of the games latest patch.\r\nCyberpunk 2077 version 1.3 the ga… [+2704 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "SamMobile"
+			},
+			"author": "SamMobile",
+			"title": "Amazon confirms the Wi-Fi-only Galaxy Tab S7 FE is coming to India soon - SamMobile",
+			"description": "Tablet customers in India will soon be able to buy the Wi-Fi-only version of the Galaxy Tab S7 FE. The ...",
+			"url": "https://www.sammobile.com/news/amazon-confirms-wi-fi-only-galaxy-tab-s7-fe-coming-to-india-soon/",
+			"urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/07/Galaxy-Tab-S7-FE-Fan-Edition-review-13-720x404.jpg",
+			"publishedAt": "2021-08-22T13:05:00Z",
+			"content": "Tablet customers in India will soon be able to buy the Wi-Fi-only version of the Galaxy Tab S7 FE. The LTE model was released in India two months ago for an INR 46,999 ($632) starting price. The Wi-F… [+1147 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "ZDNet"
+			},
+			"author": "Chris Matyszczyk",
+			"title": "Microsoft asked an important question. The replies were ingenious - ZDNet",
+			"description": "There's not always an obvious way to fix a technological snafu. In this case, however, the fixes were many and clever.",
+			"url": "https://www.zdnet.com/article/microsoft-asked-an-important-question-the-replies-were-ingenious/",
+			"urlToImage": "https://www.zdnet.com/a/hub/i/r/2021/08/11/e0553cd9-f39a-4121-9ea3-3270568e5f10/thumbnail/770x578/0ef75749e4afbe5e46fcf808b827abbc/screen-shot-2021-08-11-at-3-23-53-pm.png",
+			"publishedAt": "2021-08-22T12:30:03Z",
+			"content": "Airing the questions many care about.\r\nTechnology creates problems and opportunities, perhaps in equal measure.\r\nMany, though, simply aren't equipped to deal with the mistakes that technology induces… [+3641 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "9to5Mac"
+			},
+			"author": null,
+			"title": "Apple to launch iPad 9 in September, considering Titanium finish for new models - 9to5Mac",
+			"description": "A DigitTimes report claims that Apple will launch iPad 9 next month and that will help boost its tablets shipments up to 60 million units.",
+			"url": "https://9to5mac.com/2021/08/22/apple-to-launch-ipad-9-in-september-considering-titanium-finish-for-new-models/",
+			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/ipad-8-ipados-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2021-08-22T12:19:00Z",
+			"content": "As we approach September, new rumors about Apple’s next gadgets become even more regular. Now, a report claims that Apple will launch iPad 9 next month and that will help boost its tablets shipments … [+2003 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "9to5Mac"
+			},
+			"author": null,
+			"title": "WhatsApp for Desktop launches public beta for macOS users - 9to5Mac",
+			"description": "WhatsApp is launching a public beta for its desktop app. macOS users can enroll in the program and try all the latest features.",
+			"url": "https://9to5mac.com/2021/08/22/whatsapp-for-desktop-launches-public-beta-for-macos-users/",
+			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/whatsapp-for-desktop-public-beta-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2021-08-22T11:58:00Z",
+			"content": "WhatsApp is launching a public beta for its desktop app. macOS and Windows users can now enroll in the program and try all the latest features coming to the app.\r\nAccording to WABetaInfo, this public… [+1843 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Guardian"
+			},
+			"author": "Gene Marks",
+			"title": "Funerals are expensive. And family firms are under threat from new tech - The Guardian",
+			"description": "Dying is a profitable business – yet funerals today are pretty much handled the same as they’ve been for decades",
+			"url": "https://amp.theguardian.com/business/2021/aug/22/funerals-us-small-business-family-firms",
+			"urlToImage": null,
+			"publishedAt": "2021-08-22T11:46:00Z",
+			"content": "US small businessDying is a profitable business yet funerals today are pretty much handled the same as theyve been for decades\r\nSee that place? my father always used to say when we drove by the local… [+4001 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "WindowsLatest"
+			},
+			"author": null,
+			"title": "Google Chrome to get speed, design and music control updates - WindowsLatest",
+			"description": "When you have several tabs open in Google Chrome, you can always close tabs accidentally while browsing multiple tabs. To help users restore the tabs, Chrome comes with a “reopen closed tabs” button and developers have now confirmed that this feature is getti…",
+			"url": "https://www.windowslatest.com/2021/08/22/google-chrome-to-get-speed-design-and-music-control-updates/",
+			"urlToImage": "https://www.windowslatest.com/wp-content/uploads/2021/08/Google-Chrome-speed-update.jpg",
+			"publishedAt": "2021-08-22T11:40:27Z",
+			"content": "When you have several tabs open in Google Chrome, you can always close tabs accidentally while browsing multiple tabs. To help users restore the tabs, Chrome comes with a “reopen closed tabs” button … [+2738 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Tom's Guide"
+			},
+			"author": "Alan Martin",
+			"title": "iPad mini 6 vs iPad mini 5: Biggest changes to expect - Tom's Guide",
+			"description": "What changes can you expect in the upcoming iPad mini 6?",
+			"url": "https://www.tomsguide.com/news/ipad-mini-6-vs-ipad-mini-5-biggest-changes-to-expect",
+			"urlToImage": "https://cdn.mos.cms.futurecdn.net/FrgURoCLwKfm29GU6bFvi3-1200-80.png",
+			"publishedAt": "2021-08-22T10:39:21Z",
+			"content": "More evidence has arrived that Apple is working on the iPad mini 6, and given that the minis design hasnt really changed since the 2012 original, a bold new look could really shake up the small table… [+4496 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Internet"
+			},
+			"author": "https://www.facebook.com/thehackernews",
+			"title": "WARNING: Microsoft Exchange Under Attack With ProxyShell Flaws - The Hacker News",
+			"description": "Attackers exploiting ProxyShell extensively to hack Microsoft Exchange servers",
+			"url": "https://thehackernews.com/2021/08/microsoft-exchange-under-attack-with.html",
+			"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEihM5iYK8V59Az6V_QU4QfgIeRF_0hGVdMPzkolUAVIW-fNuFPicRQP8GVCKVzA_FETzCTUZXWBI67kH6LRZTLGCO5eI9UumwAso17F_kIigeX8Y7Z41AMwAPgq1iysoZkTTX-VU5eO4nCRvjFq57tq6FcnFZd3DBb3A8kWOZ253GJWm-fH0WFE7Fna",
+			"publishedAt": "2021-08-22T09:51:00Z",
+			"content": "The U.S. Cybersecurity and Infrastructure Security Agency is warning of active exploitation attempts that leverage the latest line of \"ProxyShell\" Microsoft Exchange vulnerabilities that were patched… [+2101 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "MSPoweruser"
+			},
+			"author": "http://www.facebook.com/pages/wmpowerusercom/37708414657",
+			"title": "Turns out all you need to gain admin privileges on Windows 10 is to plug in a Razer mouse - MSPoweruser - MSPoweruser",
+			"description": "Microsoft’s PrintNightmare fiasco has turned the eyes of the hacker community to the vulnerabilities exposed by installing 3rd party drivers and today hacker jonhat discovered that you can open a wide-open door in Windows 10 by simply plugging in a Razer wire…",
+			"url": "https://mspoweruser.com/turns-out-all-you-need-to-gain-admin-privileges-on-windows-10-is-to-plug-in-a-razer-mouse/",
+			"urlToImage": "https://mspoweruser.com/wp-content/uploads/2020/08/Razer-Keyboard-mouse-1200x789.jpg",
+			"publishedAt": "2021-08-22T08:01:57Z",
+			"content": "Microsoft’s PrintNightmare fiasco has turned the eyes of the hacker community to the vulnerabilities exposed by installing 3rd party drivers and today hacker jonhat discovered that you can open a wid… [+1633 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Digital Information World"
+			},
+			"author": "Arooj Ahmed",
+			"title": "Researchers from Princeton further added to the criticism on Apple's CSAM system by claiming that it can be used for other motives - Digital Information World",
+			"description": "The researcher said that the system being developed by Apple is open to abuse and even termed it as somewhat dangerous.",
+			"url": "https://www.digitalinformationworld.com/2021/08/researchers-from-princeton-further.html",
+			"urlToImage": "https://1.bp.blogspot.com/-pQDgVprlD3k/YSHLuS6XHmI/AAAAAAAAb7E/fre_jNuwTvodZH77gEcMOQ-j-YCVQVtdwCLcBGAsYHQ/s16000/apple.jpg",
+			"publishedAt": "2021-08-22T04:01:00Z",
+			"content": "Technology and internet usage amongst humans have largely increased in the past few years, with tech making daily life and its tasks easier, humans are also becoming increasingly dependent on it. Whi… [+2919 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "ComicBook.com"
+			},
+			"author": "Tyler Fischer",
+			"title": "Destiny 2 Announces Long-Awaited Feature But Players Are Divided About It - ComicBook.com",
+			"description": "Destiny 2 is adding a long-awaited feature players have been asking for since the game launched on PS4, PC, and Xbox One. Despite this, not every Destiny player is happy with the news. This week, Bungie, via the official Destiny 2 Twitter account, announced t…",
+			"url": "https://comicbook.com/gaming/news/destiny-2-season-15-update-anti-cheat-reaction/",
+			"urlToImage": "https://media.comicbook.com/2021/08/destiny-1280042-1280x0.jpeg",
+			"publishedAt": "2021-08-21T22:10:00Z",
+			"content": "Destiny 2 is adding a long-awaited feature players have been asking for since the game launched on PS4, PC, and Xbox One. Despite this, not every Destiny player is happy with the news. This week, Bun… [+1052 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Rock Paper Shotgun"
+			},
+			"author": "Graham Smith",
+			"title": "Don't expect PlayStation games to launch simultaneously on PC - Rock Paper Shotgun",
+			"description": "Sony will continue to bring their games to PC, but say that they're committed to providing console exclusives for the PlayStation 5. We'll have to wait.",
+			"url": "https://www.rockpapershotgun.com/dont-expect-playstation-games-to-launch-simultaneously-on-pc",
+			"urlToImage": "https://assets2.rockpapershotgun.com/horizon-zero-dawn_hWDIrIr.jpg/BROK/resize/1200x630%3E/format/jpg/quality/80/horizon-zero-dawn_hWDIrIr.jpg",
+			"publishedAt": "2021-08-21T21:01:42Z",
+			"content": "Was anyone really expecting Sony to start releasing their games simultaneously across PC and console? Panicked PlayStation 5 owners, perhaps - but even they should fret no longer. In an interview wit… [+1803 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "ComicBook.com"
+			},
+			"author": "Tyler Fischer",
+			"title": "The Elder Scrolls V: Skyrim Discovery Ends 10-Year-Old Mystery - ComicBook.com",
+			"description": "A 10-year-old debate among The Elder Scrolls V: Skyrim fans has finally been ended, courtesy of a former Bethesda developer that worked on the game. This week, Bethesda surprised fans with the reveal of The Elder Scrolls V: Skyrim Anniversary Edition, the lat…",
+			"url": "https://comicbook.com/gaming/news/the-elder-scrolls-v-skyrim-anniversary-foxes/",
+			"urlToImage": "https://media.comicbook.com/2021/08/the-elder-scrolls-skyrim-1280017-1280x0.jpeg",
+			"publishedAt": "2021-08-21T19:31:00Z",
+			"content": "A 10-year-old debate among The Elder Scrolls V: Skyrim fans has finally been ended, courtesy of a former Bethesda developer that worked on the game. This week, Bethesda surprised fans with the reveal… [+3879 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CharlieINTEL.com"
+			},
+			"author": "Keshav Bhat",
+			"title": "Activision logo not shown in CoD Vanguard trailer as Activision Blizzard lawsuit controversy continues - CharlieINTEL.com",
+			"description": "Activision's logo was not present in the CoD Vanguard reveal trailer compared to almost every year before.",
+			"url": "https://charlieintel.com/activision-logo-not-in-cod-vanguard-trailer-activision-blizzard-lawsuit-controversy/119745/",
+			"urlToImage": "https://cdn.charlieintel.com/wp-content/uploads/2021/08/21091412/Screen-Shot-2021-08-21-at-12.12.52-PM-1000x600.jpg",
+			"publishedAt": "2021-08-21T16:25:28Z",
+			"content": "In response to the ongoing Blizzard Entertainment lawsuit, J. Allen Brack has stepped down as President of the company, and “Jen Oneal and Mike Ybarra will co-lead Blizzard moving forward.”\r\nActivisi… [+4699 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Chrome Unboxed"
+			},
+			"author": "https://chromeunboxed.com/author/michael/",
+			"title": "Google Podcasts web app now syncs your Queue and listening progress across devices - Chrome Unboxed",
+			"description": "After breaching 50 million installs on Android and adding several new features in the past few months, Google Podcasts is becoming quite the contender to my original favorite app for listening - Pocket Casts. Now that Google has plunged into the wonderful fut…",
+			"url": "https://chromeunboxed.com/google-podcasts-pwa-queue-listening-sync",
+			"urlToImage": "https://chromeunboxed.com/wp-content/uploads/2020/11/googlepodcasts-feature.jpg",
+			"publishedAt": "2021-08-21T15:49:32Z",
+			"content": "After breaching 50 million installs on Android and adding several new features in the past few months, Google Podcasts is becoming quite the contender to my original favorite app for listening Pocket… [+1914 chars]"
+		}
+
+	]
+}

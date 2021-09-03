@@ -1,0 +1,23 @@
+$pink: #f72585;
+$aqua: #4cc9f0;
+$javanese: "javanese-text-regular";
+$sen: "Sen";
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+
+  width: 100%;
+  min-height: 100vh;
+
+  box-sizing: border-box;
+
+  background: radial-gradient(
+    109.36% 123.05% at 20.28% 18.75%,
+    #18004e 0%,
+    #34057a 32.42%,
+    #5b0ca0 74.65%,
+    #8817d4 100%
+  );
+}

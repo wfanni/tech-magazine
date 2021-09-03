@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1088.61 816.64" width="1088.6099853515625" height="816.6400146484375">
+  <defs>
+    <style>.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{
+      fill:none;
+      stroke-linecap:square;
+      stroke-miterlimit:10;
+      stroke-width:20px;
+      }
+      .cls-1{
+        stroke:#f72585;
+      }
+      .cls-2{
+        stroke:#560bad;
+      }
+      .cls-3{
+        stroke:#4361ee;
+      }
+      .cls-4{
+        stroke:#7209b7;
+      }
+      .cls-5{
+        stroke:#b5179e;
+      }
+      .cls-6{
+        font-size:230.35px;
+        font-family:LucidaConsole, Lucida Console;
+      }
+      .cls-6,.cls-7{
+        fill:#4cc9f0;
+      }
+      .cls-7{
+        font-size:123.79px;
+        font-family:JavaneseText, Javanese Text;
+      }
+      .cls-8{
+        letter-spacing:0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="colored">
+      <path class="cls-1 svg-elem-1" d="M45.69,571.27A399.54,399.54,0,0,1,10,405.67c0-195.85,140.42-358.91,326.08-394"></path>
+      <path class="cls-2 svg-elem-2" d="M671.08,710.84A399.37,399.37,0,0,1,411,806.64q-11.42,0-22.68-.63"></path>
+      <path class="cls-3 svg-elem-3" d="M530.21,22.73c163.22,50.77,281.73,203,281.73,382.94a400.66,400.66,0,0,1-20.33,126.42"></path>
+      <path class="cls-4 svg-elem-4" d="M99.57,254.82C155.62,139.35,274,59.74,411,59.74c140.94,0,262.19,84.28,316.11,205.2"></path>
+      <path class="cls-5 svg-elem-5" d="M563.11,716.44A344.52,344.52,0,0,1,411,751.61c-181.68,0-330.64-140.05-344.83-318.08"></path>
+      <text class="cls-6" transform="translate(99.78 493.95) scale(1.15 1)">tech</text>
+      <text class="cls-7" transform="translate(513.78 640.43) scale(1.15 1)">
+        ma
+        <tspan class="cls-8" x="160.6" y="0">
+          ga
+        </tspan>
+        <tspan x="279.85" y="0">
+          zine
+        </tspan>
+      </text>
+    </g>
+  </g>
+</svg>
+
+
+
+
+<svg className="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1088.61 816.64" width="1088.6099853515625" height="816.6400146484375">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="colored">
+      <path class="cls-1 svg-elem-1" d="M45.69,571.27A399.54,399.54,0,0,1,10,405.67c0-195.85,140.42-358.91,326.08-394"></path>
+      <path class="cls-2 svg-elem-2" d="M671.08,710.84A399.37,399.37,0,0,1,411,806.64q-11.42,0-22.68-.63"></path>
+      <path class="cls-3 svg-elem-3" d="M530.21,22.73c163.22,50.77,281.73,203,281.73,382.94a400.66,400.66,0,0,1-20.33,126.42"></path>
+      <path class="cls-4 svg-elem-4" d="M99.57,254.82C155.62,139.35,274,59.74,411,59.74c140.94,0,262.19,84.28,316.11,205.2"></path>
+      <path class="cls-5 svg-elem-5" d="M563.11,716.44A344.52,344.52,0,0,1,411,751.61c-181.68,0-330.64-140.05-344.83-318.08"></path>
+      <text class="cls-6" transform="translate(99.78 493.95) scale(1.15 1)">tech</text>
+      <text class="cls-7" transform="translate(513.78 640.43) scale(1.15 1)">
+        ma
+        <tspan class="cls-8" x="160.6" y="0">
+          ga
+        </tspan>
+        <tspan x="279.85" y="0">
+          zine
+        </tspan>
+      </text>
+    </g>
+  </g>
+</svg>
