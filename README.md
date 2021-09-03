@@ -15,4 +15,6 @@ We used:
 
 **React.js**
 
+**Adobe Illustrator**
+
 Thanks for reading!
